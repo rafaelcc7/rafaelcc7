@@ -1,4 +1,4 @@
-### Sou o Rafael Cardoso 7.
+### Rafael Cardoso
 
 - ⚡ Estou cursando Engenharia Elétrica - UFMA
 - 📚 Estudando Linguagem C
